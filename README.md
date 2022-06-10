@@ -1,7 +1,8 @@
 ![banner](https://github.com/KuoPingL-Android/I-Want-To-Be-Novelist/blob/master/images/cover.png)
 <p align="center">A book-creating app that allows writers to write and share their self-customized books.</p>
 <p align="center">
-<a href="https://play.google.com/store/apps/details?id=studio.saladjam.iwanttobenovelist"><img width = "170" height="70" src="https://github.com/KuoPingL-Android/I-Want-To-Be-Novelist/blob/master/images/google.svg"/></a>
+Currently is down from GooglePlay
+<!-- <a href="https://play.google.com/store/apps/details?id=studio.saladjam.iwanttobenovelist"><img width = "170" height="70" src="https://github.com/KuoPingL-Android/I-Want-To-Be-Novelist/blob/master/images/google.svg"/></a> -->
  </p>
 <br></br>
 
